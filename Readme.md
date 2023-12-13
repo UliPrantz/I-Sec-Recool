@@ -4,7 +4,7 @@ A python script for automatically scanning a network with nmap/scan6 and creatin
 ## Requirements
 
 - Python3.9 (might work with earlier versions)
-- [nplan](https://github.com/richartkeil/nplan)
+- [nplan](https://github.com/UliPrantz/nplan)
 - nmap
 - scan6 (`sudo apt install ipv6-toolkit`)
 
@@ -12,7 +12,7 @@ A python script for automatically scanning a network with nmap/scan6 and creatin
 
 1. Clone the repository
     ```sh
-    git clone https://github.com/Kryptolyser/I-Sec-Recool
+    git clone https://github.com/UliPrantz/I-Sec-Recool.git
     ```
 2. Go into the repository folder
     ```sh

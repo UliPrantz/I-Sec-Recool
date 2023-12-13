@@ -1,5 +1,5 @@
 # Recool
-A python script for automatically scanning a network with nmap/scan6 and creating a draw.io export with the help of [nplan](https://github.com/richartkeil/nplan).
+A python script for automatically scanning a network with nmap/scan6 and creating a draw.io export with the help of [nplan](https://github.com/UliPrantz/nplan).
 
 ## Requirements
 
